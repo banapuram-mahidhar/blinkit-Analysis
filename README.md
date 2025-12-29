@@ -5,6 +5,9 @@
 This project presents a comprehensive **sales, customer satisfaction,inventory distribuction and ** of **Blinkit** using **Python**.  
 The goal is to identify key business insights, performance trends, and optimization opportunities using KPIs and interactive visualizations.
 
+![Blinkit Dashboard](https://github.com/banapuram-mahidhar/blinkit-Analysis/blob/88bbba5d8a380d610a5804303cb08ca52abfee0d/Blinkit_project_img.png)
+
+
 This dashboard helps stakeholders understand:
 - Sales performance across products and outlets
 - Customer preferences based on fat content
